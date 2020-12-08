@@ -1,10 +1,12 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import Hompage from './Component/Homepage'
+import './Component/custom.css'
+import Homepage from './Component/Homepage'
+
 function App() {
   return (
     <div className="App">
-      <Hompage/>
+        <Homepage/>
       {/* Browsing in ReactJS */}
       {/* Cái style thì em tham khảo this.useScript trong React */}
     </div>

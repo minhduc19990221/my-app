@@ -99,13 +99,13 @@ export default class FooterPage extends Component {
                 <nav className="nav-footer">
                   <ul className="list-inline">
                     <li className="list-inline-item">
-                      <a href="#">Home</a>
+                      <a href="/">Home</a>
                     </li>
                     <li className="list-inline-item">
-                      <a href="#">About</a>
+                      <a href="/about">About</a>
                     </li>
                     <li className="list-inline-item">
-                      <a href="#">Property</a>
+                      <a href="/property-grid">Property</a>
                     </li>
                     <li className="list-inline-item">
                       <a href="#">Blog</a>
